@@ -8,7 +8,7 @@ function About() {
       <section className="bg-[#F0EFFF]">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-8 md:p-12">
               <a
                 href="#"
                 className="bg-[#7BE6D9] text-[#4700C6] text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md"
@@ -18,7 +18,7 @@ function About() {
               <h2 className="text-[#4700C6] text-3xl font-extrabold mb-2">
                 What is TeachMe?
               </h2>
-              <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
+              <p className="text-lg font-normal text-gray-500 mb-4">
                 TeachMe is a mentor-mentee finder app that helps connect people
                 seeking mentorship with experienced professionals in their field
                 of interest. The app allows users to create profiles and search

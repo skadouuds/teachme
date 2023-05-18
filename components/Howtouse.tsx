@@ -23,10 +23,10 @@ function Howtouse() {
               height={300}
               alt="find mentor"
             />
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
               Find
             </h5>
-            <p className="font-normal text-gray-700 dark:text-gray-400">
+            <p className="font-normal text-gray-700">
               Specify whether you're looking for a mentor or mentee, and select
               your preferred field or subject of interest. TeachMe suggest
               suitable matches for you.
@@ -40,10 +40,10 @@ function Howtouse() {
               height={300}
               alt="find mentor"
             />
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
               Meet
             </h5>
-            <p className="font-normal text-gray-700 dark:text-gray-400">
+            <p className="font-normal text-gray-700">
               TeachMe's scheduling feature makes it easy to coordinate and stay
               organized. Whether it's virtual video calls, in-person meetups, or
               a combination of both, it's up to you.
@@ -57,10 +57,10 @@ function Howtouse() {
               height={250}
               alt="find mentor"
             />
-            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
               Study
             </h5>
-            <p className="font-normal text-gray-700 dark:text-gray-400">
+            <p className="font-normal text-gray-700">
               Follow the established learning plan, set goals, and track your
               progress. Take advantage of TeachMe's resources, such as document
               sharing, task management, and progress tracking tools.
